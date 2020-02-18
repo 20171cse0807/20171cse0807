@@ -1,0 +1,21 @@
+body{
+background-color:linen;
+}
+h1{
+color:maroon;
+margin-left:40px;
+border:10px dashed red;
+}
+#key
+{
+color:green;
+margin-right:50px;
+text-transform:capitalize;
+}
+body{
+
+background-image:url(" /home/Sem6B12/Downloads/Cocker-Spaniel-Puppy-Training-Health-Care-and-Breed-Information.jpg");
+background-repeat:no-repeat;
+background-size:1900px 1100px;
+}
+
